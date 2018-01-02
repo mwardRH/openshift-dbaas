@@ -1,6 +1,10 @@
 # OpenShift Version
 
 ## Deploy
+Start Minishift
+```
+minishift start
+```
 
 Log in and create OpenShift project
 ```
